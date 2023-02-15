@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, API's**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gdiazdiaz/Gdiazdiaz.github.io](https://github.com/Gdiazdiaz/Gdiazdiaz.github.io)
+- 👨‍💻 All of my projects are available at [My portfolio](https://portfolio-1wwp.onrender.com)
 
 - 💬 Ask me about **HTML&CSS**
 
