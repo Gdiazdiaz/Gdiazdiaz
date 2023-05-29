@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glenda</h1>
 <h3 align="center">and I’m a Full Stack Development student in Microverse</h3>
 
-<p align="left"> <a href="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"><img src="https://github-profile-trophy.vercel.app/?username=gdiazdiaz" alt="gdiazdiaz" /></a> </p>
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 - 🔭 I’m currently working on [To-do list](https://github.com/Gdiazdiaz/Earthbnb-frontend)
 
