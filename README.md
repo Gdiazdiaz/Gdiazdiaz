@@ -3,17 +3,16 @@
 
 <img src="https://i.pinimg.com/originals/de/30/21/de3021c5618a58faa9f39ba3df133f24.gif" style="width:100vw;">
 
-- 🔭 I’m currently working on [To-do list](https://github.com/Gdiazdiaz/Earthbnb-frontend)
+- 🔭 I’m currently working on [Earthbnb](https://github.com/Gdiazdiaz/Earthbnb-frontend)
 
-- 🌱 I’m currently learning **JavaScript, API's**
-
+- 🌱 I’m currently learning **React Native, Expo**
 - 👨‍💻 All of my projects are available at [My portfolio](https://portfolio-1wwp.onrender.com)
 
-- 💬 Ask me about **HTML&CSS**
+- 💬 Ask me about **React&Redux**
 
 - 📫 How to reach me **glendadiaz@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ERI2C7LKtJh1dZw4NOUBLszenRMjVKmJ/view?usp=sharing](https://drive.google.com/file/d/1ERI2C7LKtJh1dZw4NOUBLszenRMjVKmJ/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1UOnKtC_Se4AFH8aM7hpSl5jgWNY6I7W-fHzpuubEr6g/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a self taught bilingual**
 
