@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glenda</h1>
 <h3 align="center">and I’m a Full Stack Development student in Microverse</h3>
 
-<img src="https://s3.amazonaws.com/mobileappdaily/mad/uploads/mad_blog_5d8c6c86cdb001569483910.gif">
+<img src="https://s3.amazonaws.com/mobileappdaily/mad/uploads/mad_blog_5d8c6c86cdb001569483910.gif" style="width=100vw">
 
 - 🔭 I’m currently working on [To-do list](https://github.com/Gdiazdiaz/Earthbnb-frontend)
 
