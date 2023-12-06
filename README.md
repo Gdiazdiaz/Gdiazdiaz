@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Glenda</h1>
-<h3 align="center">and I’m a Full Stack Development student in Microverse</h3>
+<h3 align="center">and I’m a Full Stack Developer and Data Analyst!</h3>
 
 <img src="https://i.pinimg.com/originals/de/30/21/de3021c5618a58faa9f39ba3df133f24.gif" style="width:100vw;">
 
-- 🔭 I’m currently working on [Earthbnb](https://github.com/Gdiazdiaz/Earthbnb-frontend)
+- 🔭 I’m currently working on [Platino Softaware](https://github.com/grupoplatino)
 
-- 🌱 I’m currently learning **React Native, Expo**
+- 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [My portfolio](https://portfolio-1wwp.onrender.com)
 
-- 💬 Ask me about **React&Redux**
+- 💬 Ask me about **React&Redux, Python, Ruby**
 
 - 📫 How to reach me **glendadiaz@outlook.com**
 
