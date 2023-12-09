@@ -3,7 +3,7 @@
 
 <img src="https://i.pinimg.com/originals/de/30/21/de3021c5618a58faa9f39ba3df133f24.gif" style="width:100vw;">
 
-- 🔭 I’m currently working on [Platino Softaware](https://github.com/grupoplatino)
+- 🔭 I’m currently working in [Platino Softaware](https://github.com/grupoplatino)
 
 - 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [My portfolio](https://portfolio-1wwp.onrender.com)
