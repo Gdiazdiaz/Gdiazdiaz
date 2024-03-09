@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working in [Platino Software](https://github.com/grupoplatino)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **ML&DL&AI**
 - 👨‍💻 All of my projects are available at [My portfolio](https://portfolio-1wwp.onrender.com)
 
-- 💬 Ask me about **React&Redux, Python, Ruby**
+- 💬 Ask me about **Whisper, Python, Ruby, NextJS**
 
 - 📫 How to reach me **glendadiaz@outlook.com**
 
