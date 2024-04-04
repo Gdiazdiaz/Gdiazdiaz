@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **glendadiaz@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1UOnKtC_Se4AFH8aM7hpSl5jgWNY6I7W-fHzpuubEr6g/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1A4Qu6GOSoJX1L-H8Wc-wZOFmK6DEqEa-c_Z03Yzip74/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a self taught bilingual**
 
