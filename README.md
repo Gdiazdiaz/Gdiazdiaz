@@ -3,10 +3,9 @@
 
 <img src="https://i.pinimg.com/originals/de/30/21/de3021c5618a58faa9f39ba3df133f24.gif" style="width:100vw;">
 
-- 🔭 I’m currently working in [Platino Software](https://github.com/grupoplatino)
+- 🔭 I’m currently working in 
 
 - 🌱 I’m currently learning **ML&DL&AI**
-- 👨‍💻 All of my projects are available at [My portfolio](https://portfolio-1wwp.onrender.com)
 
 - 💬 Ask me about **Whisper, Python, Ruby, NextJS**
 
